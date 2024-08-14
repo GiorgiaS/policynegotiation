@@ -1,0 +1,157 @@
+Intermediate Policy:<{'Service Operation and Security', 'Basic service/feature', 'Legal requirement'}, 197.8, {'Email Marketing Platforms', 'Legal Advisors', 'Affiliate Marketers', 'Business Partners', 'Analytics', 'Social Networks', 'Ad Networks', 'Cloud Storage Providers'}>
+Computation time:5.72865629196167
+
+List of Policies:
+<['Basic service/feature', 'Research', 'Service operation and security', 'Additional service/feature', 'Legal requirement', 'Analytics', 'Service Operation and Security', 'Personalization/Customization'], 254, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Basic service/feature'], 103, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Basic service/feature', 'Personalization/Customization', 'Analytics', 'Research', 'Advertising', 'Marketing', 'Merger/Acquisition', 'Additional service/feature'], 67, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Analytics', 'Research', 'Service Operation and Security'], 166, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Research', 'Additional service/feature', 'Personalization/Customization', 'Other', 'Basic service/feature', 'Marketing', 'Service operation and security', 'Service Operation and Security'], 89, ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']>
+<['Research', 'Additional service/feature', 'Marketing'], 204, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Personalization/Customization', 'Basic service/feature', 'Other', 'Research', 'Service Operation and Security', 'Additional service/feature', 'Service operation and security', 'Legal requirement', 'Analytics', 'Merger/Acquisition'], 213, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Research', 'Other', 'Additional service/feature', 'Advertising'], 312, ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']>
+<['Research', 'Analytics', 'Service Operation and Security', 'Basic service/feature', 'Service operation and security', 'Additional service/feature', 'Merger/Acquisition', 'Marketing'], 55, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Research', 'Marketing', 'Analytics', 'Advertising', 'Additional service/feature', 'Basic service/feature', 'Service operation and security', 'Legal requirement', 'Other', 'Personalization/Customization'], 145, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Research', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Analytics', 'Advertising', 'Marketing', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition'], 276, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Analytics', 'Personalization/Customization', 'Basic service/feature', 'Research', 'Service Operation and Security', 'Service operation and security'], 169, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Research', 'Additional service/feature', 'Personalization/Customization', 'Advertising', 'Analytics', 'Basic service/feature', 'Other'], 276, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Basic service/feature', 'Personalization/Customization', 'Analytics', 'Marketing', 'Legal requirement', 'Service operation and security', 'Research'], 291, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Research', 'Service Operation and Security'], 189, ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']>
+<['Research', 'Analytics', 'Advertising', 'Basic service/feature', 'Personalization/Customization', 'Additional service/feature', 'Marketing', 'Legal requirement', 'Service operation and security', 'Other', 'Merger/Acquisition'], 354, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Legal requirement', 'Research', 'Analytics'], 302, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Marketing', 'Analytics', 'Research', 'Additional service/feature', 'Other'], 205, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Research'], 86, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Basic service/feature', 'Marketing', 'Research', 'Service Operation and Security', 'Analytics', 'Additional service/feature', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition'], 304, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Other', 'Research', 'Basic service/feature', 'Additional service/feature', 'Analytics'], 339, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Analytics', 'Research'], 73, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Analytics', 'Research', 'Marketing', 'Advertising', 'Additional service/feature'], 291, ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']>
+<['Research', 'Basic service/feature', 'Marketing', 'Personalization/Customization', 'Advertising', 'Additional service/feature', 'Service Operation and Security', 'Analytics', 'Merger/Acquisition'], 209, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Analytics', 'Basic service/feature', 'Additional service/feature', 'Marketing', 'Other', 'Research', 'Advertising', 'Personalization/Customization', 'Service Operation and Security'], 43, ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']>
+<['Research', 'Analytics', 'Legal requirement'], 212, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Basic service/feature', 'Research', 'Advertising', 'Additional service/feature', 'Personalization/Customization', 'Analytics', 'Service Operation and Security', 'Marketing', 'Service operation and security', 'Legal requirement', 'Merger/Acquisition'], 342, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Research', 'Analytics', 'Advertising', 'Marketing', 'Other'], 352, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Other', 'Marketing', 'Basic service/feature', 'Service Operation and Security', 'Research', 'Additional service/feature', 'Advertising'], 81, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Research', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Analytics', 'Personalization/Customization', 'Other', 'Legal requirement', 'Marketing', 'Advertising', 'Service operation and security', 'Merger/Acquisition'], 173, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Research', 'Basic service/feature', 'Marketing', 'Additional service/feature', 'Other', 'Analytics', 'Personalization/Customization', 'Service operation and security', 'Merger/Acquisition', 'Legal requirement'], 45, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Research', 'Marketing', 'Other', 'Additional service/feature', 'Analytics', 'Advertising', 'Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Merger/Acquisition', 'Legal requirement', 'Service operation and security'], 224, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Research', 'Basic service/feature', 'Personalization/Customization', 'Marketing', 'Additional service/feature'], 266, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Basic service/feature', 'Marketing', 'Service operation and security', 'Additional service/feature', 'Research'], 355, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Research', 'Basic service/feature', 'Service Operation and Security', 'Analytics', 'Other', 'Additional service/feature', 'Advertising'], 263, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Service Operation and Security', 'Additional service/feature', 'Basic service/feature', 'Advertising', 'Other', 'Personalization/Customization', 'Research', 'Analytics'], 227, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+<['Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Additional service/feature', 'Research', 'Service operation and security', 'Legal requirement', 'Analytics', 'Other'], 123, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Research', 'Legal requirement', 'Basic service/feature', 'Additional service/feature', 'Service operation and security', 'Analytics'], 174, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Basic service/feature', 'Research', 'Analytics', 'Service Operation and Security', 'Personalization/Customization', 'Marketing', 'Legal requirement', 'Additional service/feature', 'Service operation and security', 'Advertising', 'Other', 'Merger/Acquisition'], 273, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Research', 'Legal requirement', 'Analytics'], 355, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Basic service/feature', 'Research', 'Additional service/feature'], 163, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Basic service/feature', 'Analytics'], 73, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Research', 'Merger/Acquisition', 'Legal requirement', 'Marketing'], 134, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Research', 'Service Operation and Security', 'Analytics', 'Advertising', 'Marketing', 'Basic service/feature', 'Other', 'Merger/Acquisition', 'Additional service/feature', 'Service operation and security', 'Legal requirement'], 75, ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']>
+<['Analytics', 'Basic service/feature', 'Other', 'Research'], 138, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Research', 'Marketing', 'Additional service/feature', 'Basic service/feature', 'Advertising', 'Other'], 310, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Research', 'Marketing', 'Analytics', 'Basic service/feature', 'Personalization/Customization', 'Additional service/feature', 'Service operation and security', 'Legal requirement'], 135, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Basic service/feature', 'Research', 'Advertising', 'Marketing', 'Additional service/feature', 'Other', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition'], 158, ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']>
+<['Basic service/feature', 'Additional service/feature', 'Research', 'Analytics', 'Advertising', 'Legal requirement'], 161, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Analytics', 'Basic service/feature', 'Research', 'Legal requirement', 'Other', 'Marketing'], 339, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+
+
+List of Privacy Preferences:
+<['Additional service/feature'], 119, ['Compliance Services', 'Email Marketing Platforms']>
+<['Marketing', 'Service operation and security', 'Research', 'Additional service/feature'], 117, ['Analytics', 'Affiliate Marketers']>
+<['Additional service/feature', 'Other', 'Analytics', 'Basic service/feature'], 109, ['Affiliate Marketers', 'Analytics', 'Legal Advisors']>
+<['Service operation and security', 'Legal requirement', 'Other', 'Merger/Acquisition', 'Basic service/feature', 'Marketing', 'Research'], 77, ['Ad Networks', 'Market Research Firms']>
+<['Research'], 31, ['Cloud Storage Providers', 'Ad Networks', 'Legal Advisors']>
+<['Marketing'], 331, ['Business Partners', 'Data Hosting Services']>
+<['Analytics'], 228, ['Compliance Services', 'Email Marketing Platforms']>
+<['Additional service/feature', 'Analytics', 'Research', 'Legal requirement', 'Service operation and security', 'Basic service/feature'], 31, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Compliance Services']>
+<['Additional service/feature', 'Legal requirement', 'Analytics', 'Other', 'Personalization/Customization'], 236, ['Social Networks', 'Ad Networks', 'Business Partners', 'Affiliate Marketers', 'IT Support']>
+<['Legal requirement', 'Research', 'Personalization/Customization', 'Additional service/feature', 'Basic service/feature', 'Other', 'Analytics', 'Service operation and security', 'Merger/Acquisition'], 226, ['IT Support', 'Ad Networks', 'Business Partners']>
+<['Basic service/feature', 'Research', 'Marketing', 'Analytics', 'Legal requirement'], 73, ['Analytics', 'Affiliate Marketers']>
+<['Research', 'Legal requirement'], 210, ['Analytics Providers', 'Compliance Services', 'Customer Support Tools']>
+<['Additional service/feature', 'Personalization/Customization', 'Basic service/feature', 'Research', 'Marketing'], 84, ['IT Support', 'Analytics Providers', 'Cloud Storage Providers']>
+<['Personalization/Customization', 'Research'], 122, ['Data Hosting Services', 'Email Marketing Platforms']>
+<['Additional service/feature', 'Basic service/feature', 'Analytics'], 325, ['Cloud Storage Providers', 'Compliance Services', 'Analytics Providers']>
+<['Advertising'], 298, ['Data Hosting Services']>
+<['Research'], 53, ['Analytics', 'Compliance Service']>
+<['Other'], 175, ['Ad Networks']>
+<['Additional service/feature'], 294, ['IT Support']>
+<['Basic service/feature'], 96, ['Business Partners', 'Email Marketing Platforms', 'Data Hosting Services']>
+<['Other', 'Additional service/feature', 'Analytics', 'Basic service/feature'], 208, ['Ad Networks']>
+<['Merger/Acquisition', 'Analytics', 'Marketing'], 178, ['Customer Support Tools', 'Email Marketing Platforms', 'Cloud Storage Providers']>
+<['Service operation and security', 'Merger/Acquisition', 'Legal requirement', 'Service Operation and Security', 'Marketing', 'Research', 'Analytics'], 74, ['Customer Support Tools', 'Email Marketing Platforms', 'Cloud Storage Providers']>
+<['Merger/Acquisition', 'Advertising', 'Marketing', 'Personalization/Customization', 'Analytics', 'Additional service/feature', 'Basic service/feature', 'Research'], 210, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Legal requirement', 'Other', 'Service Operation and Security', 'Research'], 37, ['Ad Networks', 'Social Networks']>
+<['Basic service/feature', 'Marketing', 'Analytics', 'Merger/Acquisition', 'Additional service/feature', 'Advertising', 'Personalization/Customization'], 282, ['Market Research Firms']>
+<['Analytics', 'Research', 'Legal requirement'], 90, ['Affiliate Marketers']>
+<['Research', 'Other'], 289, ['Analytics', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools']>
+<['Analytics'], 53, ['Ad Networks', 'IT Support', 'Affiliate Marketers', 'Social Networks']>
+<['Marketing', 'Legal requirement', 'Analytics', 'Personalization/Customization', 'Other', 'Research', 'Merger/Acquisition', 'Basic service/feature'], 286, ['Cloud Storage Providers']>
+<['Additional service/feature', 'Basic service/feature', 'Service operation and security'], 278, ['Compliance Service']>
+<['Service Operation and Security', 'Research'], 303, ['Business Partners']>
+<['Legal requirement', 'Other', 'Advertising'], 255, ['Data Hosting Services']>
+<['Other'], 127, ['Analytics', 'Cloud Storage Providers', 'Email Marketing Platforms']>
+<['Service Operation and Security'], 184, ['Legal Advisors', 'Affiliate Marketers']>
+<['Basic service/feature'], 168, ['Analytics', 'Cloud Storage Providers']>
+<['Basic service/feature'], 72, ['Social Networks', 'Affiliate Marketers']>
+<['Research'], 80, ['Customer Support Tools', 'Email Marketing Platforms']>
+<['Additional service/feature', 'Research'], 349, ['Data Hosting Services']>
+<['Research'], 74, ['Legal Advisors', 'Analytics']>
+<['Other', 'Personalization/Customization', 'Analytics', 'Research', 'Marketing', 'Service operation and security'], 182, ['Market Research Firms', 'Legal Advisors', 'Ad Networks', 'Cloud Storage Providers']>
+<['Research'], 80, ['IT Support', 'Analytics Providers']>
+<['Other', 'Basic service/feature', 'Advertising'], 327, ['Ad Networks', 'Compliance Services', 'Affiliate Marketers']>
+<['Research', 'Service Operation and Security'], 356, ['Cloud Storage Providers', 'Email Marketing Platforms']>
+<['Basic service/feature', 'Advertising', 'Additional service/feature', 'Analytics', 'Service operation and security', 'Personalization/Customization', 'Legal requirement', 'Service Operation and Security', 'Marketing', 'Research', 'Merger/Acquisition'], 284, ['Ad Networks', 'Cloud Storage Providers', 'Market Research Firms', 'Legal Advisors']>
+<['Marketing', 'Merger/Acquisition'], 317, ['Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Research'], 278, ['Ad Networks', 'Legal Advisors', 'Market Research Firms']>
+<['Advertising', 'Other', 'Research', 'Additional service/feature'], 339, ['Market Research Firms', 'Cloud Storage Providers', 'Ad Networks', 'Legal Advisors']>
+<['Additional service/feature'], 255, ['Cloud Storage Providers']>
+<['Analytics', 'Service operation and security', 'Legal requirement', 'Marketing', 'Research', 'Personalization/Customization', 'Additional service/feature'], 70, ['Analytics', 'Affiliate Marketers', 'Legal Advisors']>
+<['Research', 'Analytics', 'Other', 'Additional service/feature', 'Service operation and security', 'Personalization/Customization', 'Service Operation and Security'], 180, ['Market Research Firms']>
+<['Research'], 75, ['Legal Advisors', 'Affiliate Marketers', 'Ad Networks', 'Social Networks', 'Compliance Services']>
+<['Research', 'Marketing', 'Additional service/feature'], 115, ['Ad Networks', 'Social Networks', 'Business Partners', 'IT Support', 'Affiliate Marketers']>
+<['Service Operation and Security'], 69, ['Compliance Services', 'Analytics Providers', 'IT Support']>
+<['Analytics'], 83, ['Analytics']>
+<['Marketing', 'Research', 'Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Other'], 85, ['Compliance Service', 'Legal Advisors', 'Affiliate Marketers']>
+<['Advertising', 'Research', 'Service operation and security', 'Analytics', 'Marketing'], 86, ['Data Hosting Services', 'Business Partners']>
+<['Analytics', 'Basic service/feature'], 158, ['Affiliate Marketers', 'Compliance Service', 'Analytics', 'Legal Advisors']>
+<['Basic service/feature', 'Research', 'Marketing'], 357, ['Social Networks', 'Ad Networks', 'Legal Advisors']>
+<['Other', 'Analytics', 'Research', 'Service Operation and Security'], 250, ['Analytics Providers']>
+<['Personalization/Customization', 'Research', 'Analytics', 'Marketing', 'Service operation and security'], 52, ['IT Support', 'Cloud Storage Providers', 'Analytics Providers']>
+<['Marketing', 'Additional service/feature', 'Merger/Acquisition', 'Analytics', 'Basic service/feature'], 106, ['Business Partners']>
+<['Marketing', 'Service Operation and Security', 'Other', 'Basic service/feature', 'Additional service/feature', 'Advertising'], 341, ['Cloud Storage Providers', 'Ad Networks']>
+<['Basic service/feature'], 271, ['Market Research Firms']>
+<['Additional service/feature', 'Basic service/feature', 'Analytics', 'Research', 'Legal requirement'], 169, ['Analytics', 'Cloud Storage Providers']>
+<['Marketing'], 294, ['Legal Advisors']>
+<['Basic service/feature'], 364, ['Email Marketing Platforms']>
+<['Legal requirement', 'Marketing', 'Advertising', 'Service Operation and Security'], 338, ['Cloud Storage Providers', 'Customer Support Tools', 'Compliance Services']>
+<['Research'], 235, ['Ad Networks']>
+<['Research'], 334, ['Data Hosting Services']>
+<['Personalization/Customization', 'Research', 'Basic service/feature', 'Other'], 267, ['Customer Support Tools']>
+<['Marketing', 'Research', 'Other', 'Merger/Acquisition', 'Analytics', 'Advertising', 'Additional service/feature', 'Legal requirement', 'Service Operation and Security', 'Personalization/Customization'], 212, ['Business Partners', 'Email Marketing Platforms', 'Data Hosting Services']>
+<['Analytics', 'Service operation and security', 'Merger/Acquisition', 'Legal requirement', 'Marketing', 'Service Operation and Security', 'Research', 'Additional service/feature'], 105, ['Business Partners', 'Data Hosting Services', 'Email Marketing Platforms']>
+<['Other', 'Service Operation and Security'], 64, ['Data Hosting Services', 'Business Partners']>
+<['Analytics', 'Basic service/feature', 'Advertising', 'Legal requirement', 'Additional service/feature', 'Research'], 68, ['Email Marketing Platforms', 'Business Partners']>
+<['Analytics', 'Personalization/Customization', 'Service operation and security', 'Research', 'Marketing', 'Legal requirement', 'Basic service/feature'], 205, ['Ad Networks', 'Affiliate Marketers', 'Social Networks', 'Business Partners', 'IT Support']>
+<['Basic service/feature', 'Personalization/Customization', 'Marketing', 'Service operation and security'], 98, ['Legal Advisors', 'Market Research Firms', 'Ad Networks']>
+<['Service Operation and Security'], 339, ['Business Partners', 'Email Marketing Platforms']>
+<['Personalization/Customization', 'Basic service/feature', 'Research', 'Additional service/feature', 'Marketing'], 97, ['Ad Networks', 'Social Networks', 'Affiliate Marketers', 'Business Partners', 'IT Support']>
+<['Service Operation and Security', 'Marketing'], 250, ['Cloud Storage Providers']>
+<['Marketing', 'Research', 'Basic service/feature', 'Service operation and security'], 170, ['Cloud Storage Providers', 'Analytics']>
+<['Basic service/feature', 'Marketing', 'Additional service/feature', 'Research'], 45, ['Analytics Providers', 'Customer Support Tools', 'Email Marketing Platforms', 'Cloud Storage Providers', 'Compliance Services']>
+<['Additional service/feature', 'Marketing', 'Basic service/feature', 'Advertising', 'Personalization/Customization', 'Other'], 162, ['Social Networks']>
+<['Service Operation and Security', 'Additional service/feature', 'Personalization/Customization', 'Research', 'Legal requirement'], 31, ['IT Support']>
+<['Service Operation and Security', 'Additional service/feature', 'Other', 'Research', 'Basic service/feature'], 204, ['IT Support', 'Cloud Storage Providers', 'Analytics Providers']>
+<['Advertising', 'Merger/Acquisition', 'Basic service/feature', 'Analytics'], 128, ['Legal Advisors', 'Affiliate Marketers', 'Compliance Service']>
+<['Service operation and security', 'Advertising', 'Merger/Acquisition', 'Other'], 355, ['Cloud Storage Providers', 'Ad Networks', 'Legal Advisors', 'Market Research Firms']>
+<['Additional service/feature', 'Research', 'Service Operation and Security', 'Legal requirement', 'Basic service/feature', 'Analytics', 'Other', 'Service operation and security', 'Merger/Acquisition', 'Personalization/Customization'], 186, ['Legal Advisors']>
+<['Additional service/feature', 'Analytics', 'Marketing', 'Basic service/feature', 'Research', 'Advertising', 'Service Operation and Security', 'Service operation and security', 'Merger/Acquisition'], 297, ['Business Partners', 'Data Hosting Services']>
+<['Research', 'Basic service/feature', 'Other', 'Marketing', 'Legal requirement'], 310, ['Customer Support Tools']>
+<['Advertising', 'Additional service/feature', 'Other', 'Basic service/feature', 'Research', 'Marketing'], 261, ['Market Research Firms', 'Cloud Storage Providers', 'Ad Networks', 'Legal Advisors']>
+<['Basic service/feature'], 226, ['Market Research Firms']>
+<['Analytics', 'Personalization/Customization', 'Basic service/feature', 'Service Operation and Security', 'Service operation and security', 'Research'], 235, ['Cloud Storage Providers', 'Market Research Firms', 'Ad Networks', 'Legal Advisors']>
+<['Research'], 354, ['Legal Advisors']>
+<['Advertising', 'Additional service/feature', 'Basic service/feature', 'Analytics', 'Personalization/Customization'], 308, ['Social Networks']>
+<['Research', 'Service Operation and Security'], 229, ['Social Networks', 'Ad Networks']>
+<['Service operation and security'], 144, ['Market Research Firms', 'Cloud Storage Providers', 'Ad Networks']>
+<['Marketing', 'Service operation and security', 'Additional service/feature'], 240, ['Affiliate Marketers']>
+<['Marketing', 'Service operation and security', 'Other', 'Advertising', 'Personalization/Customization', 'Research', 'Legal requirement', 'Additional service/feature', 'Analytics', 'Basic service/feature'], 136, ['Affiliate Marketers', 'Social Networks', 'Ad Networks', 'IT Support', 'Business Partners']>
+<['Analytics', 'Advertising', 'Service Operation and Security', 'Research'], 220, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>

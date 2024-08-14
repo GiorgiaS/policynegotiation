@@ -1,0 +1,22 @@
+Intermediate Policy:<{'Basic service/feature', 'Other', 'Analytics'}, 187.35, {'Social Networks', 'Business Partners', 'Ad Networks', 'Legal Advisors', 'Market Research Firms'}>
+Computation time:3.901456117630005
+
+List of Policies:
+<['Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Additional service/feature', 'Research', 'Service operation and security', 'Legal requirement', 'Analytics', 'Other'], 339, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Research', 'Other', 'Additional service/feature', 'Advertising'], 164, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Analytics', 'Basic service/feature', 'Other', 'Research'], 44, ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']>
+<['Basic service/feature', 'Marketing', 'Service operation and security', 'Additional service/feature', 'Research'], 158, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Basic service/feature', 'Analytics'], 271, ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']>
+
+
+List of Privacy Preferences:
+<['Legal requirement', 'Personalization/Customization', 'Service operation and security', 'Service Operation and Security', 'Research', 'Basic service/feature'], 219, ['Business Partners', 'Affiliate Marketers', 'Ad Networks', 'Social Networks', 'IT Support']>
+<['Basic service/feature'], 60, ['Business Partners', 'Email Marketing Platforms']>
+<['Service operation and security', 'Additional service/feature', 'Basic service/feature', 'Marketing'], 349, ['Business Partners']>
+<['Other', 'Personalization/Customization', 'Service Operation and Security', 'Analytics', 'Basic service/feature', 'Legal requirement'], 285, ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']>
+<['Analytics', 'Other'], 235, ['Ad Networks', 'Social Networks']>
+<['Additional service/feature'], 129, ['IT Support', 'Social Networks']>
+<['Other', 'Additional service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Legal requirement', 'Service operation and security', 'Basic service/feature'], 157, ['Market Research Firms']>
+<['Other', 'Advertising', 'Additional service/feature', 'Research'], 40, ['Legal Advisors', 'Cloud Storage Providers']>
+<['Additional service/feature', 'Service operation and security', 'Basic service/feature'], 254, ['Legal Advisors', 'Market Research Firms']>
+<['Marketing', 'Research', 'Basic service/feature', 'Additional service/feature', 'Service operation and security'], 67, ['Business Partners', 'Data Hosting Services', 'Email Marketing Platforms']>

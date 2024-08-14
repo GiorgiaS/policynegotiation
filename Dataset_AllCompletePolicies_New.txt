@@ -1,0 +1,388 @@
+All complete policies: 
+
+Website: 817_ironhorsevineyards.com.csv
+
+Website: 1206_dcccd.edu.csv
+Data type: Research
+	Purposes: ['Legal requirement', 'Research', 'Analytics']
+	Retention: ['Research']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+
+Website: 531_archives.gov.csv
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Research', 'Service operation and security', 'Additional service/feature', 'Legal requirement', 'Analytics', 'Service Operation and Security', 'Personalization/Customization']
+	Retention: ['Indefinitely']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Research
+	Purposes: ['Basic service/feature', 'Additional service/feature', 'Research', 'Analytics', 'Advertising', 'Legal requirement']
+	Retention: ['Other', 'Indefinitely']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+Data type: Financial
+	Purposes: ['Basic service/feature', 'Analytics']
+	Retention: ['Limited']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+Data type: Personal identifier
+	Purposes: ['Research', 'Service Operation and Security']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+
+Website: 1259_fool.com.csv
+Data type: Research
+	Purposes: ['Research', 'Marketing', 'Analytics', 'Advertising', 'Additional service/feature', 'Basic service/feature', 'Service operation and security', 'Legal requirement', 'Other', 'Personalization/Customization']
+	Retention: ['Limited']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+Data type: Generic personal information
+	Purposes: ['Research', 'Analytics', 'Advertising', 'Basic service/feature', 'Personalization/Customization', 'Additional service/feature', 'Marketing', 'Legal requirement', 'Service operation and security', 'Other', 'Merger/Acquisition']
+	Retention: ['Limited', 'Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
+Data type: Contact
+	Purposes: ['Analytics', 'Basic service/feature', 'Additional service/feature', 'Marketing', 'Other', 'Research', 'Advertising', 'Personalization/Customization', 'Service Operation and Security']
+	Retention: ['Research']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+Data type: Other
+	Purposes: ['Personalization/Customization', 'Analytics', 'Research', 'Additional service/feature', 'Advertising', 'Other']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 1708_foxsports.com.csv
+Data type: Research
+	Purposes: ['Basic service/feature', 'Research', 'Advertising', 'Additional service/feature', 'Personalization/Customization', 'Analytics', 'Service Operation and Security', 'Marketing', 'Service operation and security', 'Legal requirement', 'Merger/Acquisition']
+	Retention: ['Limited', 'Other', 'Research']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+Data type: Other
+	Purposes: ['Research', 'Service Operation and Security', 'Additional service/feature', 'Advertising']
+	Retention: ['Research']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+
+Website: 884_naturalnews.com.csv
+
+Website: 1083_highgearmedia.com.csv
+Data type: Other
+	Purposes: ['Research', 'Other', 'Additional service/feature', 'Advertising']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 898_uptodate.com.csv
+
+Website: 1610_post-gazette.com.csv
+
+Website: 1164_acbj.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Additional service/feature', 'Personalization/Customization', 'Other', 'Basic service/feature', 'Marketing', 'Service operation and security', 'Service Operation and Security']
+	Retention: ['Research']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+Data type: Cookies and tracking elements
+	Purposes: ['Analytics', 'Research', 'Marketing', 'Advertising', 'Additional service/feature']
+	Retention: ['Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 642_thefreedictionary.com.csv
+
+Website: 21_imdb.com.csv
+Data type: Research
+	Purposes: ['Basic service/feature', 'Personalization/Customization', 'Analytics', 'Research', 'Advertising', 'Marketing', 'Merger/Acquisition', 'Additional service/feature']
+	Retention: ['Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 640_gamestop.com.csv
+Data type: Research
+	Purposes: ['Research', 'Basic service/feature', 'Additional service/feature', 'Marketing', 'Advertising', 'Personalization/Customization', 'Analytics', 'Merger/Acquisition', 'Legal requirement', 'Service operation and security']
+	Retention: ['Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 503_buffalowildwings.com.csv
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Marketing', 'Research', 'Service Operation and Security', 'Analytics', 'Additional service/feature', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+
+Website: 652_randomhouse.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Basic service/feature', 'Marketing', 'Additional service/feature', 'Other', 'Analytics', 'Personalization/Customization', 'Service operation and security', 'Merger/Acquisition', 'Legal requirement']
+	Retention: ['Limited']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+
+Website: 571_abita.com.csv
+
+Website: 919_uh.edu.csv
+Data type: Research
+	Purposes: ['Research', 'Analytics', 'Legal requirement']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+Data type: Cookies and tracking elements
+	Purposes: ['Basic service/feature', 'Analytics', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 20_theatlantic.com.csv
+Data type: Research
+	Purposes: ['Research', 'Basic service/feature', 'Marketing', 'Personalization/Customization', 'Advertising', 'Additional service/feature', 'Service Operation and Security', 'Analytics', 'Merger/Acquisition']
+	Retention: ['Limited', 'Research']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+
+Website: 1545_taylorswift.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Analytics', 'Advertising', 'Marketing', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition']
+	Retention: ['Limited']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+
+Website: 559_www.loc.gov.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Legal requirement', 'Basic service/feature', 'Additional service/feature', 'Service operation and security', 'Analytics']
+	Retention: ['Limited']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+Data type: Research
+	Purposes: ['Research', 'Marketing', 'Analytics', 'Basic service/feature', 'Personalization/Customization', 'Additional service/feature', 'Service operation and security', 'Legal requirement']
+	Retention: ['Indefinitely']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+Data type: Cookies and tracking elements
+	Purposes: ['Analytics', 'Personalization/Customization', 'Basic service/feature', 'Research', 'Service Operation and Security', 'Service operation and security']
+	Retention: ['Indefinitely']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 348_walmart.com.csv
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Research', 'Analytics', 'Service Operation and Security', 'Personalization/Customization', 'Marketing', 'Legal requirement', 'Additional service/feature', 'Service operation and security', 'Advertising', 'Other', 'Merger/Acquisition']
+	Retention: ['Research']
+	Third Parties: ['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
+
+Website: 325_ocregister.com.csv
+
+Website: 1300_bankofamerica.com.csv
+
+Website: 1050_honda.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Basic service/feature', 'Personalization/Customization', 'Marketing', 'Additional service/feature']
+	Retention: ['Research']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+Data type: Contact
+	Purposes: ['Basic service/feature', 'Marketing', 'Additional service/feature', 'Advertising', 'Personalization/Customization', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: User online activities
+	Purposes: ['Analytics', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 82_sheknows.com.csv
+Data type: Research
+	Purposes: ['Research', 'Additional service/feature', 'Analytics', 'Personalization/Customization', 'Basic service/feature', 'Marketing', 'Service operation and security', 'Advertising', 'Service Operation and Security', 'Merger/Acquisition', 'Legal requirement']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Research', 'Additional service/feature', 'Merger/Acquisition', 'Other', 'Service Operation and Security', 'Service operation and security', 'Legal requirement', 'Advertising']
+	Retention: ['Research']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 1360_thehill.com.csv
+Data type: Research
+	Purposes: ['Research', 'Merger/Acquisition', 'Legal requirement', 'Marketing']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 541_ifsa-butler.org.csv
+Data type: Generic personal information
+	Purposes: ['Other', 'Research', 'Analytics', 'Legal requirement', 'Advertising', 'Marketing']
+	Retention: ['Research']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 940_internetbrands.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Other', 'Basic service/feature', 'Analytics', 'Service Operation and Security', 'Service operation and security', 'Merger/Acquisition', 'Additional service/feature', 'Marketing']
+	Retention: ['Limited', 'Other', 'Research']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+Data type: Research
+	Purposes: ['Research', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Analytics', 'Personalization/Customization', 'Other', 'Legal requirement', 'Marketing', 'Advertising', 'Service operation and security', 'Merger/Acquisition']
+	Retention: ['Research', 'Limited']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+Data type: Financial
+	Purposes: ['Basic service/feature', 'Research', 'Additional service/feature']
+	Retention: ['Limited']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Health
+	Purposes: ['Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Additional service/feature', 'Research', 'Service operation and security', 'Legal requirement', 'Analytics', 'Other']
+	Retention: ['Limited']
+	Third Parties: ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
+
+Website: 523_usa.gov.csv
+Data type: User online activities
+	Purposes: ['Research', 'Legal requirement', 'Analytics']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
+Data type: Other
+	Purposes: ['Research', 'Analytics', 'Advertising', 'Marketing', 'Other']
+	Retention: ['Research', 'Limited']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+Data type: Research
+	Purposes: ['Analytics', 'Basic service/feature', 'Research', 'Legal requirement', 'Other', 'Marketing']
+	Retention: ['Limited']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 745_eatchicken.com.csv
+
+Website: 1361_yahoo.com.csv
+
+Website: 1205_opensecrets.org.csv
+Data type: Cookies and tracking elements
+	Purposes: ['Other', 'Research', 'Service Operation and Security', 'Additional service/feature', 'Advertising']
+	Retention: ['Limited']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+Data type: Other
+	Purposes: ['Research']
+	Retention: ['Stated Period']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 1419_miaminewtimes.com.csv
+Data type: Other
+	Purposes: ['Advertising']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+
+Website: 1694_lids.com.csv
+
+Website: 207_reference.com.csv
+Data type: Generic personal information
+	Purposes: ['Additional service/feature', 'Advertising', 'Analytics', 'Research', 'Marketing']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
+
+Website: 1666_wsmv.com.csv
+Data type: Research
+	Purposes: ['Research', 'Service Operation and Security', 'Analytics', 'Advertising', 'Marketing', 'Basic service/feature', 'Other', 'Merger/Acquisition', 'Additional service/feature', 'Service operation and security', 'Legal requirement']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
+Data type: Generic personal information
+	Purposes: ['Research', 'Additional service/feature', 'Marketing']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+
+Website: 1673_tulsaworld.com.csv
+
+Website: 1582_msn.com.csv
+Data type: Cookies and tracking elements
+	Purposes: ['Research', 'Basic service/feature', 'Service Operation and Security', 'Analytics', 'Other', 'Additional service/feature', 'Advertising']
+	Retention: ['Stated Period']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+Data type: IP address and device IDs
+	Purposes: ['Research', 'Additional service/feature', 'Basic service/feature', 'Other']
+	Retention: ['Stated Period']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+Data type: User online activities
+	Purposes: ['Research', 'Additional service/feature', 'Personalization/Customization', 'Advertising', 'Analytics', 'Basic service/feature', 'Other']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 202_foodallergy.org.csv
+Data type: Financial
+	Purposes: ['Basic service/feature', 'Marketing', 'Service operation and security', 'Additional service/feature', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Generic personal information
+	Purposes: ['Marketing', 'Analytics', 'Research', 'Additional service/feature', 'Other']
+	Retention: ['Stated Period']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+
+Website: 928_stlouisfed.org.csv
+Data type: Other
+	Purposes: ['Analytics', 'Basic service/feature', 'Other', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+Data type: User online activities
+	Purposes: ['Analytics', 'Research', 'Service Operation and Security']
+	Retention: ['Research', 'Limited']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+Data type: Cookies and tracking elements
+	Purposes: ['Other', 'Research', 'Basic service/feature', 'Additional service/feature', 'Analytics']
+	Retention: ['Stated Period']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+
+Website: 481_fredericknewspost.com.csv
+
+Website: 1713_latinpost.com.csv
+Data type: Research
+	Purposes: ['Other', 'Research', 'Basic service/feature', 'Additional service/feature', 'Personalization/Customization', 'Marketing', 'Advertising', 'Service Operation and Security', 'Analytics', 'Service operation and security', 'Legal requirement', 'Merger/Acquisition']
+	Retention: ['Indefinitely']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+
+Website: 70_meredith.com.csv
+
+Website: 175_mlb.mlb.com.csv
+Data type: User online activities
+	Purposes: ['Research', 'Analytics', 'Additional service/feature']
+	Retention: ['Indefinitely']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+
+Website: 1510_jibjab.com.csv
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Research', 'Advertising', 'Marketing', 'Additional service/feature', 'Other', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition']
+	Retention: ['Limited']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+Data type: Contact
+	Purposes: ['Other', 'Marketing', 'Basic service/feature', 'Service Operation and Security', 'Research', 'Additional service/feature', 'Advertising']
+	Retention: ['Limited']
+	Third Parties: ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
+Data type: Cookies and tracking elements
+	Purposes: ['Additional service/feature', 'Analytics', 'Advertising', 'Personalization/Customization', 'Research', 'Basic service/feature']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Financial
+	Purposes: ['Basic service/feature']
+	Retention: ['Limited']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 456_boardgamegeek.com.csv
+
+Website: 359_vikings.com.csv
+Data type: Research
+	Purposes: ['Research', 'Marketing', 'Other', 'Additional service/feature', 'Analytics', 'Advertising', 'Basic service/feature', 'Service Operation and Security', 'Personalization/Customization', 'Merger/Acquisition', 'Legal requirement', 'Service operation and security']
+	Retention: ['Limited', 'Other', 'Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+Data type: Contact
+	Purposes: ['Research', 'Marketing', 'Additional service/feature', 'Basic service/feature', 'Advertising', 'Other']
+	Retention: ['Limited']
+	Third Parties: ['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
+
+Website: 58_esquire.com.csv
+Data type: Generic personal information
+	Purposes: ['Research', 'Analytics', 'Service Operation and Security', 'Basic service/feature', 'Service operation and security', 'Additional service/feature', 'Merger/Acquisition', 'Marketing']
+	Retention: ['Limited', 'Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 320_timeinc.com.csv
+Data type: Generic personal information
+	Purposes: ['Basic service/feature', 'Additional service/feature', 'Advertising', 'Research', 'Other', 'Personalization/Customization', 'Analytics', 'Marketing', 'Service operation and security', 'Legal requirement', 'Merger/Acquisition']
+	Retention: ['Research', 'Limited']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+Data type: Research
+	Purposes: ['Research', 'Basic service/feature', 'Marketing', 'Service Operation and Security', 'Additional service/feature', 'Personalization/Customization', 'Analytics', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition', 'Advertising']
+	Retention: ['Limited']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 581_coffeereview.com.csv
+
+Website: 777_education.jlab.org.csv
+
+Website: 591_google.com.csv
+Data type: Research
+	Purposes: ['Service Operation and Security', 'Additional service/feature', 'Basic service/feature', 'Advertising', 'Other', 'Personalization/Customization', 'Research', 'Analytics']
+	Retention: ['Limited', 'Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+Data type: Generic personal information
+	Purposes: ['Personalization/Customization', 'Basic service/feature', 'Other', 'Research', 'Service Operation and Security', 'Additional service/feature', 'Service operation and security', 'Legal requirement', 'Analytics', 'Merger/Acquisition']
+	Retention: ['Research']
+	Third Parties: ['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
+
+Website: 98_neworleansonline.com.csv
+
+Website: 59_liquor.com.csv
+
+Website: 760_si.edu.csv
+Data type: Research
+	Purposes: ['Basic service/feature', 'Personalization/Customization', 'Analytics', 'Marketing', 'Legal requirement', 'Service operation and security', 'Research']
+	Retention: ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
+	Third Parties: ['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
+Data type: Other
+	Purposes: ['Analytics', 'Research']
+	Retention: ['Research']
+	Third Parties: ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
+

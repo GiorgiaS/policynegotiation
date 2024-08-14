@@ -1,0 +1,282 @@
+Intermediate Policy:<{'Marketing', 'Service operation and security', 'Basic service/feature'}, 190.878, {'Public', 'Other users', 'Named third party'}>
+Computation time:6.567040681838989
+
+List of Policies:
+<['Legal requirement', 'Other', 'Unspecified', 'Basic service/feature', 'Analytics/Research'], 331, ['Named third party', 'Unspecified', 'Other users']>
+<['Additional service/feature', 'Analytics/Research', 'Advertising', 'Personalization/Customization', 'Unspecified', 'Basic service/feature'], 182, ['Unnamed third party', 'Named third party']>
+<['Basic service/feature'], 189, ['Unnamed third party', 'Other part of company/affiliate', 'Named third party', 'Unspecified']>
+<['Unspecified', 'Basic service/feature', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition', 'Advertising', 'Analytics/Research', 'Marketing', 'Other', 'Additional service/feature'], 223, ['Unspecified', 'Public', 'Unnamed third party', 'Other part of company/affiliate', 'Named third party']>
+<['Unspecified', 'Additional service/feature', 'Basic service/feature', 'Personalization/Customization', 'Analytics/Research', 'Service Operation and Security', 'Marketing', 'Service operation and security', 'Legal requirement', 'Merger/Acquisition', 'Other'], 117, ['Unnamed third party', 'Named third party']>
+<['Basic service/feature', 'Analytics/Research'], 195, ['Unnamed third party', 'Other part of company/affiliate', 'Named third party', 'Unspecified', 'Public']>
+<['Basic service/feature', 'Service Operation and Security', 'Legal requirement', 'Unspecified', 'Service operation and security', 'Additional service/feature'], 100, ['Unnamed third party', 'Named third party', 'Unspecified', 'Other part of company/affiliate']>
+<['Unspecified', 'Service Operation and Security', 'Additional service/feature', 'Advertising'], 63, ['Named third party', 'Unnamed third party']>
+<['Basic service/feature', 'Unspecified', 'Service operation and security', 'Additional service/feature', 'Legal requirement', 'Analytics/Research', 'Service Operation and Security', 'Personalization/Customization'], 141, ['Unnamed third party', 'Named third party', 'Other part of company/affiliate', 'Unspecified']>
+<['Unspecified', 'Other', 'Analytics/Research', 'Advertising', 'Additional service/feature', 'Personalization/Customization', 'Basic service/feature', 'Service Operation and Security', 'Marketing', 'Service operation and security', 'Merger/Acquisition', 'Legal requirement'], 44, ['Unnamed third party', 'Named third party', 'Other users', 'Other part of company/affiliate', 'Unspecified']>
+<['Unspecified', 'Service Operation and Security', 'Analytics/Research', 'Advertising', 'Marketing', 'Basic service/feature', 'Other', 'Merger/Acquisition', 'Additional service/feature', 'Service operation and security', 'Legal requirement'], 278, ['Named third party', 'Unnamed third party', 'Other']>
+<['Unspecified', 'Advertising', 'Basic service/feature', 'Marketing', 'Personalization/Customization', 'Analytics/Research', 'Additional service/feature', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition'], 59, ['Other part of company/affiliate', 'Named third party', 'Public', 'Unnamed third party']>
+<['Unspecified', 'Additional service/feature', 'Marketing'], 166, ['Unnamed third party']>
+<['Other', 'Additional service/feature', 'Personalization/Customization', 'Basic service/feature', 'Unspecified', 'Advertising', 'Legal requirement', 'Service Operation and Security', 'Service operation and security'], 118, ['Unnamed third party', 'Named third party', 'Unspecified', 'Other part of company/affiliate', 'Public']>
+<['Unspecified', 'Additional service/feature'], 50, ['Unnamed third party', 'Unspecified', 'Named third party']>
+<['Unspecified', 'Basic service/feature', 'Service Operation and Security', 'Analytics/Research', 'Other', 'Additional service/feature', 'Advertising'], 273, ['Named third party']>
+<['Unspecified', 'Basic service/feature', 'Personalization/Customization', 'Advertising', 'Service Operation and Security', 'Additional service/feature', 'Marketing', 'Merger/Acquisition'], 41, ['Unnamed third party', 'Named third party', 'Other part of company/affiliate']>
+<['Personalization/Customization', 'Basic service/feature', 'Other', 'Unspecified', 'Service Operation and Security', 'Additional service/feature', 'Service operation and security', 'Legal requirement', 'Analytics/Research', 'Merger/Acquisition'], 239, ['Named third party', 'Unnamed third party']>
+<['Unspecified', 'Marketing', 'Additional service/feature', 'Other', 'Analytics/Research'], 187, ['Unnamed third party', 'Named third party', 'Other part of company/affiliate']>
+<['Unspecified', 'Personalization/Customization', 'Basic service/feature', 'Marketing', 'Additional service/feature', 'Service Operation and Security', 'Analytics/Research', 'Advertising', 'Merger/Acquisition', 'Other', 'Legal requirement', 'Service operation and security'], 309, ['Named third party']>
+<['Unspecified', 'Additional service/feature', 'Personalization/Customization', 'Advertising', 'Analytics/Research', 'Basic service/feature', 'Other'], 80, ['Unnamed third party', 'Other', 'Named third party', 'Other part of company/affiliate']>
+<['Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Additional service/feature'], 306, ['Named third party']>
+<['Advertising', 'Unspecified', 'Analytics/Research', 'Other', 'Marketing', 'Basic service/feature'], 303, ['Other users', 'Public', 'Unnamed third party', 'Unspecified', 'Named third party', 'Other part of company/affiliate']>
+<['Unspecified', 'Basic service/feature', 'Other', 'Advertising'], 336, ['Named third party']>
+<['Unspecified', 'Additional service/feature', 'Analytics/Research', 'Personalization/Customization', 'Basic service/feature', 'Marketing', 'Service operation and security', 'Advertising', 'Service Operation and Security', 'Merger/Acquisition', 'Legal requirement'], 153, ['Named third party', 'Other part of company/affiliate', 'Unnamed third party', 'Other', 'Unspecified']>
+
+
+List of Privacy Preferences:
+<['Other', 'Additional service/feature', 'Basic service/feature'], 351, ['Named third party']>
+<['Marketing', 'Analytics/Research', 'Unspecified'], 363, ['Unnamed third party']>
+<['Service Operation and Security', 'Advertising', 'Unspecified'], 265, ['Public', 'Unnamed third party']>
+<['Legal requirement', 'Basic service/feature'], 294, ['Unnamed third party', 'Named third party']>
+<['Analytics/Research', 'Basic service/feature'], 134, ['Other users', 'Named third party', 'Unnamed third party']>
+<['Other', 'Service Operation and Security', 'Analytics/Research', 'Basic service/feature', 'Unspecified'], 131, ['Named third party', 'Unnamed third party']>
+<['Merger/Acquisition', 'Service Operation and Security', 'Marketing', 'Personalization/Customization', 'Legal requirement', 'Analytics/Research', 'Additional service/feature', 'Basic service/feature', 'Service operation and security', 'Unspecified', 'Other'], 287, ['Other part of company/affiliate', 'Public', 'Unnamed third party', 'Named third party']>
+<['Basic service/feature'], 326, ['Unspecified', 'Named third party', 'Unnamed third party']>
+<['Basic service/feature', 'Analytics/Research'], 102, ['Named third party', 'Unnamed third party']>
+<['Merger/Acquisition', 'Legal requirement', 'Service Operation and Security', 'Unspecified', 'Service operation and security', 'Basic service/feature', 'Other', 'Personalization/Customization', 'Additional service/feature', 'Advertising'], 305, ['Other part of company/affiliate', 'Named third party']>
+<['Legal requirement', 'Analytics/Research', 'Additional service/feature', 'Basic service/feature', 'Merger/Acquisition', 'Advertising', 'Other', 'Unspecified', 'Service operation and security', 'Service Operation and Security', 'Marketing'], 183, ['Named third party']>
+<['Unspecified', 'Legal requirement', 'Other', 'Additional service/feature', 'Basic service/feature', 'Personalization/Customization', 'Service Operation and Security'], 286, ['Other part of company/affiliate', 'Unnamed third party', 'Named third party', 'Unspecified']>
+<['Analytics/Research', 'Merger/Acquisition', 'Service operation and security', 'Personalization/Customization', 'Unspecified', 'Marketing'], 103, ['Unspecified']>
+<['Basic service/feature'], 234, ['Other users', 'Unspecified']>
+<['Marketing', 'Advertising', 'Other', 'Basic service/feature', 'Analytics/Research', 'Service Operation and Security'], 113, ['Named third party', 'Unnamed third party']>
+<['Additional service/feature', 'Legal requirement', 'Merger/Acquisition', 'Advertising', 'Marketing', 'Basic service/feature'], 33, ['Unnamed third party', 'Public', 'Unspecified']>
+<['Personalization/Customization', 'Advertising', 'Service operation and security', 'Additional service/feature', 'Analytics/Research', 'Legal requirement', 'Unspecified', 'Merger/Acquisition'], 155, ['Unnamed third party']>
+<['Basic service/feature'], 318, ['Named third party', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Basic service/feature'], 99, ['Named third party', 'Unnamed third party']>
+<['Service Operation and Security', 'Advertising'], 170, ['Unnamed third party', 'Named third party', 'Other part of company/affiliate', 'Other']>
+<['Advertising', 'Analytics/Research'], 121, ['Unnamed third party']>
+<['Additional service/feature', 'Unspecified'], 354, ['Other', 'Unnamed third party']>
+<['Service operation and security', 'Other', 'Merger/Acquisition', 'Legal requirement', 'Analytics/Research', 'Basic service/feature', 'Unspecified'], 104, ['Unnamed third party']>
+<['Advertising', 'Basic service/feature', 'Other', 'Personalization/Customization', 'Analytics/Research', 'Unspecified'], 171, ['Other part of company/affiliate']>
+<['Basic service/feature', 'Unspecified', 'Additional service/feature', 'Service Operation and Security'], 250, ['Unspecified', 'Named third party', 'Other']>
+<['Additional service/feature', 'Service operation and security', 'Service Operation and Security', 'Basic service/feature', 'Legal requirement', 'Personalization/Customization', 'Other', 'Analytics/Research', 'Unspecified'], 94, ['Unnamed third party', 'Named third party']>
+<['Service Operation and Security', 'Unspecified', 'Additional service/feature', 'Service operation and security', 'Legal requirement'], 341, ['Other part of company/affiliate']>
+<['Advertising', 'Other', 'Unspecified'], 313, ['Public', 'Other part of company/affiliate', 'Named third party', 'Unspecified', 'Unnamed third party']>
+<['Analytics/Research', 'Basic service/feature', 'Unspecified'], 248, ['Other users', 'Unspecified']>
+<['Additional service/feature', 'Unspecified'], 190, ['Named third party', 'Other part of company/affiliate']>
+<['Service Operation and Security', 'Additional service/feature'], 54, ['Named third party', 'Unnamed third party']>
+<['Service Operation and Security', 'Legal requirement', 'Basic service/feature', 'Personalization/Customization'], 140, ['Named third party']>
+<['Basic service/feature'], 105, ['Other part of company/affiliate', 'Unnamed third party', 'Public', 'Unspecified', 'Named third party']>
+<['Additional service/feature', 'Unspecified', 'Personalization/Customization', 'Advertising'], 89, ['Named third party']>
+<['Advertising'], 276, ['Other part of company/affiliate', 'Named third party', 'Public']>
+<['Advertising', 'Analytics/Research', 'Marketing', 'Unspecified', 'Additional service/feature'], 91, ['Unnamed third party', 'Named third party']>
+<['Legal requirement', 'Unspecified', 'Analytics/Research', 'Other'], 195, ['Public', 'Other part of company/affiliate', 'Named third party', 'Unspecified']>
+<['Basic service/feature'], 248, ['Unnamed third party', 'Named third party']>
+<['Legal requirement', 'Personalization/Customization', 'Basic service/feature', 'Other', 'Service Operation and Security', 'Advertising', 'Service operation and security'], 68, ['Unnamed third party', 'Named third party']>
+<['Analytics/Research', 'Basic service/feature', 'Service Operation and Security', 'Advertising', 'Unspecified', 'Additional service/feature', 'Other'], 45, ['Public', 'Named third party', 'Unnamed third party']>
+<['Marketing', 'Additional service/feature', 'Service Operation and Security', 'Merger/Acquisition', 'Analytics/Research', 'Basic service/feature', 'Other'], 127, ['Unspecified', 'Named third party']>
+<['Other', 'Advertising'], 210, ['Named third party']>
+<['Other', 'Merger/Acquisition', 'Additional service/feature', 'Legal requirement', 'Unspecified'], 293, ['Named third party']>
+<['Advertising'], 134, ['Unspecified', 'Unnamed third party']>
+<['Marketing'], 360, ['Other part of company/affiliate']>
+<['Unspecified'], 315, ['Named third party', 'Unnamed third party']>
+<['Service Operation and Security', 'Service operation and security', 'Additional service/feature', 'Analytics/Research', 'Unspecified', 'Basic service/feature', 'Personalization/Customization', 'Legal requirement'], 328, ['Unspecified', 'Other users']>
+<['Additional service/feature', 'Analytics/Research', 'Basic service/feature', 'Advertising', 'Other', 'Unspecified'], 59, ['Unnamed third party', 'Other part of company/affiliate', 'Named third party', 'Other']>
+<['Basic service/feature', 'Service Operation and Security', 'Analytics/Research'], 44, ['Named third party', 'Other part of company/affiliate', 'Unnamed third party', 'Unspecified']>
+<['Service Operation and Security', 'Analytics/Research', 'Merger/Acquisition', 'Legal requirement'], 206, ['Public']>
+<['Advertising', 'Legal requirement', 'Basic service/feature', 'Additional service/feature'], 191, ['Unspecified', 'Unnamed third party']>
+<['Analytics/Research', 'Marketing', 'Advertising'], 36, ['Other part of company/affiliate']>
+<['Basic service/feature'], 273, ['Named third party', 'Unnamed third party']>
+<['Merger/Acquisition', 'Analytics/Research', 'Service operation and security', 'Personalization/Customization', 'Marketing', 'Basic service/feature', 'Advertising', 'Unspecified', 'Legal requirement', 'Service Operation and Security'], 115, ['Named third party']>
+<['Basic service/feature', 'Analytics/Research', 'Service operation and security'], 80, ['Public', 'Unspecified', 'Unnamed third party']>
+<['Analytics/Research'], 283, ['Named third party']>
+<['Unspecified', 'Additional service/feature', 'Merger/Acquisition', 'Service operation and security', 'Marketing', 'Analytics/Research', 'Legal requirement', 'Advertising', 'Basic service/feature'], 250, ['Named third party']>
+<['Unspecified', 'Additional service/feature', 'Other', 'Analytics/Research'], 187, ['Named third party']>
+<['Basic service/feature'], 359, ['Unnamed third party', 'Named third party']>
+<['Merger/Acquisition', 'Additional service/feature', 'Personalization/Customization', 'Service Operation and Security', 'Advertising'], 312, ['Other part of company/affiliate', 'Unnamed third party']>
+<['Additional service/feature'], 43, ['Public']>
+<['Marketing', 'Additional service/feature', 'Other', 'Merger/Acquisition', 'Unspecified', 'Service operation and security', 'Basic service/feature'], 40, ['Unspecified', 'Named third party']>
+<['Additional service/feature', 'Merger/Acquisition', 'Analytics/Research', 'Service operation and security', 'Basic service/feature', 'Legal requirement', 'Other', 'Marketing', 'Service Operation and Security'], 181, ['Other part of company/affiliate', 'Public']>
+<['Basic service/feature'], 331, ['Named third party']>
+<['Unspecified', 'Marketing'], 348, ['Unspecified']>
+<['Service operation and security', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Unspecified', 'Legal requirement'], 140, ['Unnamed third party']>
+<['Personalization/Customization', 'Merger/Acquisition', 'Service Operation and Security', 'Legal requirement', 'Marketing', 'Other', 'Advertising'], 293, ['Unnamed third party', 'Named third party']>
+<['Unspecified', 'Marketing', 'Other', 'Additional service/feature'], 122, ['Unnamed third party', 'Unspecified', 'Other users', 'Named third party']>
+<['Unspecified', 'Legal requirement', 'Service Operation and Security', 'Additional service/feature', 'Marketing'], 256, ['Named third party']>
+<['Advertising', 'Service Operation and Security', 'Unspecified', 'Additional service/feature'], 119, ['Named third party']>
+<['Analytics/Research'], 318, ['Other part of company/affiliate', 'Other users', 'Public']>
+<['Unspecified', 'Personalization/Customization', 'Other', 'Service operation and security', 'Legal requirement', 'Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Advertising'], 151, ['Unnamed third party', 'Named third party']>
+<['Analytics/Research', 'Advertising', 'Other', 'Basic service/feature'], 308, ['Unnamed third party']>
+<['Analytics/Research'], 86, ['Named third party']>
+<['Unspecified', 'Marketing', 'Additional service/feature'], 146, ['Public', 'Named third party']>
+<['Basic service/feature', 'Advertising', 'Service Operation and Security', 'Analytics/Research'], 96, ['Named third party']>
+<['Analytics/Research', 'Other', 'Service Operation and Security', 'Unspecified'], 73, ['Named third party']>
+<['Additional service/feature', 'Unspecified', 'Analytics/Research', 'Basic service/feature', 'Other'], 352, ['Other part of company/affiliate']>
+<['Advertising', 'Analytics/Research', 'Other', 'Unspecified', 'Service operation and security', 'Service Operation and Security'], 90, ['Named third party', 'Other part of company/affiliate']>
+<['Legal requirement', 'Service operation and security', 'Additional service/feature', 'Basic service/feature', 'Service Operation and Security'], 251, ['Unnamed third party', 'Other']>
+<['Marketing', 'Other'], 265, ['Other part of company/affiliate']>
+<['Basic service/feature'], 57, ['Named third party']>
+<['Unspecified', 'Basic service/feature', 'Advertising', 'Additional service/feature', 'Personalization/Customization'], 322, ['Named third party', 'Other part of company/affiliate']>
+<['Additional service/feature'], 247, ['Named third party']>
+<['Advertising', 'Other'], 49, ['Other', 'Unnamed third party']>
+<['Personalization/Customization', 'Merger/Acquisition', 'Service operation and security', 'Unspecified', 'Additional service/feature', 'Advertising', 'Legal requirement', 'Basic service/feature', 'Other', 'Marketing'], 162, ['Unnamed third party']>
+<['Basic service/feature', 'Legal requirement', 'Service operation and security', 'Advertising'], 170, ['Unspecified', 'Public']>
+<['Service Operation and Security', 'Basic service/feature', 'Advertising', 'Analytics/Research', 'Additional service/feature'], 113, ['Named third party']>
+<['Additional service/feature', 'Legal requirement', 'Analytics/Research', 'Unspecified', 'Other', 'Merger/Acquisition', 'Personalization/Customization'], 59, ['Named third party']>
+<['Analytics/Research', 'Marketing', 'Unspecified'], 237, ['Other part of company/affiliate', 'Unspecified']>
+<['Additional service/feature'], 119, ['Unnamed third party']>
+<['Other', 'Analytics/Research', 'Unspecified'], 266, ['Named third party', 'Other users']>
+<['Advertising'], 269, ['Named third party']>
+<['Unspecified', 'Legal requirement', 'Advertising'], 78, ['Named third party', 'Other part of company/affiliate', 'Unspecified']>
+<['Unspecified', 'Analytics/Research', 'Other'], 333, ['Named third party']>
+<['Personalization/Customization', 'Service operation and security'], 192, ['Other part of company/affiliate', 'Named third party']>
+<['Marketing', 'Advertising', 'Unspecified', 'Additional service/feature', 'Analytics/Research'], 94, ['Unnamed third party', 'Unspecified', 'Other part of company/affiliate']>
+<['Basic service/feature', 'Unspecified', 'Additional service/feature', 'Legal requirement', 'Advertising', 'Service Operation and Security'], 285, ['Named third party', 'Unnamed third party']>
+<['Service operation and security', 'Other', 'Personalization/Customization', 'Service Operation and Security', 'Basic service/feature', 'Additional service/feature', 'Unspecified'], 218, ['Named third party']>
+<['Basic service/feature'], 289, ['Unnamed third party', 'Named third party', 'Other']>
+<['Basic service/feature', 'Other', 'Additional service/feature', 'Unspecified', 'Personalization/Customization', 'Advertising'], 342, ['Named third party']>
+<['Analytics/Research', 'Advertising', 'Additional service/feature', 'Personalization/Customization', 'Unspecified', 'Basic service/feature'], 60, ['Named third party']>
+<['Service Operation and Security', 'Unspecified', 'Additional service/feature'], 57, ['Named third party']>
+<['Unspecified', 'Analytics/Research', 'Marketing', 'Advertising'], 82, ['Unnamed third party', 'Other part of company/affiliate', 'Named third party']>
+<['Service Operation and Security', 'Merger/Acquisition', 'Unspecified', 'Analytics/Research', 'Other', 'Basic service/feature', 'Service operation and security'], 233, ['Other users', 'Named third party', 'Unspecified']>
+<['Service Operation and Security', 'Unspecified', 'Basic service/feature', 'Legal requirement', 'Additional service/feature', 'Service operation and security'], 226, ['Other part of company/affiliate']>
+<['Advertising', 'Personalization/Customization', 'Service Operation and Security'], 74, ['Other part of company/affiliate', 'Unspecified']>
+<['Unspecified', 'Advertising', 'Service Operation and Security', 'Additional service/feature'], 72, ['Other part of company/affiliate', 'Public', 'Unspecified', 'Unnamed third party', 'Named third party']>
+<['Basic service/feature', 'Marketing', 'Additional service/feature'], 147, ['Unspecified', 'Named third party']>
+<['Advertising', 'Personalization/Customization', 'Basic service/feature', 'Unspecified', 'Additional service/feature'], 349, ['Named third party']>
+<['Additional service/feature', 'Service Operation and Security', 'Basic service/feature', 'Legal requirement', 'Advertising', 'Merger/Acquisition', 'Personalization/Customization', 'Service operation and security'], 289, ['Named third party']>
+<['Legal requirement'], 292, ['Unnamed third party']>
+<['Merger/Acquisition', 'Service operation and security', 'Additional service/feature', 'Advertising', 'Analytics/Research', 'Personalization/Customization', 'Legal requirement', 'Other', 'Marketing', 'Basic service/feature', 'Service Operation and Security'], 241, ['Named third party']>
+<['Analytics/Research', 'Personalization/Customization', 'Additional service/feature', 'Unspecified'], 152, ['Unnamed third party']>
+<['Personalization/Customization', 'Analytics/Research', 'Additional service/feature'], 170, ['Other part of company/affiliate', 'Unspecified']>
+<['Service operation and security', 'Unspecified', 'Legal requirement', 'Other', 'Additional service/feature', 'Service Operation and Security', 'Merger/Acquisition', 'Basic service/feature', 'Analytics/Research', 'Advertising', 'Marketing'], 186, ['Unnamed third party', 'Named third party']>
+<['Unspecified', 'Additional service/feature'], 148, ['Unnamed third party', 'Unspecified', 'Other part of company/affiliate', 'Named third party', 'Public']>
+<['Advertising', 'Analytics/Research', 'Additional service/feature', 'Service Operation and Security', 'Unspecified', 'Marketing', 'Merger/Acquisition', 'Service operation and security', 'Personalization/Customization', 'Other'], 252, ['Unnamed third party', 'Named third party']>
+<['Advertising'], 324, ['Other part of company/affiliate', 'Unnamed third party', 'Named third party']>
+<['Unspecified', 'Additional service/feature'], 346, ['Named third party', 'Unspecified', 'Unnamed third party']>
+<['Additional service/feature', 'Unspecified', 'Legal requirement', 'Basic service/feature', 'Personalization/Customization', 'Service operation and security'], 122, ['Unnamed third party', 'Named third party']>
+<['Basic service/feature', 'Legal requirement', 'Additional service/feature'], 279, ['Named third party']>
+<['Basic service/feature'], 347, ['Unspecified']>
+<['Basic service/feature', 'Advertising', 'Other', 'Unspecified'], 353, ['Other part of company/affiliate']>
+<['Other', 'Service Operation and Security', 'Basic service/feature', 'Unspecified', 'Additional service/feature'], 286, ['Other part of company/affiliate', 'Unnamed third party', 'Named third party']>
+<['Service Operation and Security', 'Basic service/feature', 'Unspecified', 'Additional service/feature'], 188, ['Named third party']>
+<['Other'], 354, ['Named third party', 'Other part of company/affiliate', 'Public', 'Unspecified']>
+<['Service Operation and Security'], 177, ['Unspecified', 'Other users', 'Other part of company/affiliate']>
+<['Legal requirement', 'Basic service/feature', 'Service Operation and Security', 'Additional service/feature', 'Analytics/Research', 'Other', 'Marketing', 'Advertising', 'Merger/Acquisition', 'Service operation and security'], 166, ['Unnamed third party', 'Named third party']>
+<['Advertising', 'Basic service/feature'], 221, ['Unnamed third party']>
+<['Marketing'], 232, ['Named third party']>
+<['Legal requirement', 'Service Operation and Security', 'Service operation and security'], 153, ['Named third party', 'Other part of company/affiliate', 'Unnamed third party']>
+<['Marketing', 'Other'], 167, ['Unnamed third party', 'Other part of company/affiliate']>
+<['Analytics/Research', 'Additional service/feature', 'Merger/Acquisition', 'Marketing', 'Advertising', 'Legal requirement', 'Unspecified', 'Service operation and security', 'Basic service/feature'], 261, ['Unnamed third party', 'Other part of company/affiliate', 'Unspecified']>
+<['Additional service/feature', 'Legal requirement', 'Merger/Acquisition', 'Unspecified', 'Personalization/Customization', 'Basic service/feature', 'Service operation and security', 'Advertising'], 125, ['Public', 'Other part of company/affiliate', 'Named third party', 'Unnamed third party']>
+<['Service operation and security', 'Basic service/feature', 'Unspecified'], 188, ['Other part of company/affiliate', 'Other users', 'Unnamed third party', 'Unspecified', 'Named third party']>
+<['Additional service/feature', 'Service Operation and Security', 'Legal requirement', 'Basic service/feature', 'Unspecified', 'Service operation and security'], 266, ['Named third party', 'Unnamed third party']>
+<['Merger/Acquisition', 'Unspecified', 'Service operation and security', 'Marketing', 'Additional service/feature', 'Legal requirement', 'Advertising', 'Service Operation and Security'], 96, ['Unnamed third party', 'Named third party', 'Other']>
+<['Legal requirement', 'Additional service/feature', 'Advertising', 'Unspecified', 'Service operation and security', 'Service Operation and Security', 'Other'], 44, ['Other part of company/affiliate']>
+<['Unspecified', 'Basic service/feature'], 309, ['Other', 'Unnamed third party', 'Named third party']>
+<['Marketing'], 50, ['Unnamed third party']>
+<['Service Operation and Security', 'Personalization/Customization', 'Unspecified', 'Additional service/feature', 'Service operation and security', 'Other', 'Merger/Acquisition'], 195, ['Unspecified']>
+<['Basic service/feature', 'Service operation and security', 'Personalization/Customization'], 287, ['Named third party', 'Unnamed third party']>
+<['Advertising', 'Other'], 272, ['Named third party', 'Unnamed third party']>
+<['Advertising', 'Service Operation and Security', 'Basic service/feature', 'Other', 'Legal requirement', 'Marketing'], 340, ['Public', 'Named third party', 'Unnamed third party']>
+<['Additional service/feature', 'Marketing', 'Advertising', 'Unspecified', 'Analytics/Research'], 224, ['Named third party']>
+<['Merger/Acquisition', 'Unspecified', 'Analytics/Research', 'Service operation and security', 'Personalization/Customization', 'Other', 'Additional service/feature', 'Basic service/feature'], 342, ['Named third party']>
+<['Legal requirement', 'Service Operation and Security'], 303, ['Named third party', 'Unspecified', 'Public', 'Unnamed third party']>
+<['Additional service/feature', 'Service operation and security', 'Legal requirement', 'Unspecified'], 102, ['Unspecified']>
+<['Basic service/feature', 'Other', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising'], 328, ['Other', 'Unnamed third party']>
+<['Unspecified', 'Other', 'Legal requirement', 'Basic service/feature'], 132, ['Unnamed third party', 'Named third party', 'Other part of company/affiliate']>
+<['Personalization/Customization', 'Legal requirement'], 270, ['Named third party']>
+<['Personalization/Customization'], 36, ['Other', 'Unnamed third party']>
+<['Service operation and security', 'Marketing'], 93, ['Unnamed third party', 'Named third party']>
+<['Marketing', 'Additional service/feature', 'Analytics/Research', 'Other', 'Unspecified'], 306, ['Other users']>
+<['Analytics/Research', 'Basic service/feature', 'Other', 'Unspecified', 'Legal requirement'], 305, ['Named third party']>
+<['Additional service/feature', 'Service Operation and Security'], 230, ['Other part of company/affiliate', 'Public', 'Unspecified', 'Named third party', 'Unnamed third party']>
+<['Service Operation and Security', 'Advertising', 'Unspecified', 'Analytics/Research'], 238, ['Unnamed third party', 'Other part of company/affiliate']>
+<['Personalization/Customization', 'Advertising', 'Additional service/feature', 'Analytics/Research', 'Other', 'Unspecified', 'Basic service/feature'], 246, ['Named third party', 'Unspecified', 'Unnamed third party']>
+<['Legal requirement'], 279, ['Named third party']>
+<['Personalization/Customization', 'Service Operation and Security', 'Legal requirement', 'Marketing', 'Merger/Acquisition', 'Analytics/Research'], 157, ['Unspecified', 'Named third party', 'Other users', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Legal requirement', 'Marketing', 'Service operation and security', 'Service Operation and Security', 'Unspecified', 'Merger/Acquisition', 'Additional service/feature', 'Basic service/feature'], 307, ['Other part of company/affiliate', 'Public', 'Unnamed third party']>
+<['Additional service/feature', 'Advertising', 'Unspecified', 'Service Operation and Security'], 113, ['Unspecified']>
+<['Marketing', 'Advertising'], 41, ['Public']>
+<['Analytics/Research', 'Basic service/feature'], 316, ['Named third party', 'Unnamed third party']>
+<['Additional service/feature', 'Basic service/feature', 'Marketing', 'Service operation and security', 'Legal requirement', 'Advertising', 'Service Operation and Security', 'Analytics/Research', 'Merger/Acquisition', 'Unspecified', 'Other'], 99, ['Named third party']>
+<['Merger/Acquisition', 'Other', 'Additional service/feature', 'Basic service/feature', 'Service operation and security', 'Analytics/Research', 'Marketing', 'Advertising', 'Unspecified'], 256, ['Named third party', 'Unnamed third party']>
+<['Personalization/Customization', 'Other', 'Service Operation and Security', 'Legal requirement'], 204, ['Named third party', 'Other users']>
+<['Advertising', 'Other'], 283, ['Unnamed third party', 'Other part of company/affiliate']>
+<['Advertising', 'Other', 'Basic service/feature', 'Unspecified'], 238, ['Named third party']>
+<['Merger/Acquisition', 'Additional service/feature', 'Service Operation and Security', 'Advertising', 'Basic service/feature', 'Personalization/Customization'], 174, ['Unnamed third party', 'Other users']>
+<['Service operation and security', 'Unspecified', 'Merger/Acquisition', 'Advertising'], 182, ['Other part of company/affiliate', 'Public', 'Unnamed third party']>
+<['Analytics/Research'], 62, ['Unspecified', 'Named third party', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Unspecified'], 97, ['Named third party', 'Other', 'Other part of company/affiliate']>
+<['Basic service/feature', 'Other', 'Analytics/Research'], 180, ['Named third party', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Marketing', 'Advertising', 'Service Operation and Security', 'Personalization/Customization', 'Merger/Acquisition', 'Additional service/feature', 'Unspecified', 'Basic service/feature'], 147, ['Named third party']>
+<['Service Operation and Security', 'Other', 'Advertising', 'Unspecified'], 140, ['Other part of company/affiliate', 'Named third party', 'Unspecified']>
+<['Unspecified', 'Advertising', 'Analytics/Research', 'Additional service/feature'], 226, ['Unnamed third party']>
+<['Advertising', 'Other', 'Service Operation and Security', 'Personalization/Customization', 'Additional service/feature', 'Service operation and security', 'Unspecified', 'Legal requirement', 'Basic service/feature'], 97, ['Named third party']>
+<['Basic service/feature'], 363, ['Other part of company/affiliate']>
+<['Analytics/Research', 'Legal requirement', 'Advertising', 'Other', 'Service Operation and Security', 'Additional service/feature', 'Personalization/Customization', 'Marketing', 'Merger/Acquisition', 'Service operation and security'], 41, ['Named third party']>
+<['Merger/Acquisition', 'Marketing', 'Personalization/Customization', 'Additional service/feature', 'Service Operation and Security', 'Advertising', 'Analytics/Research'], 62, ['Named third party', 'Other part of company/affiliate', 'Unnamed third party']>
+<['Basic service/feature', 'Personalization/Customization', 'Service operation and security', 'Other', 'Service Operation and Security', 'Additional service/feature'], 61, ['Other part of company/affiliate', 'Named third party', 'Unspecified', 'Public', 'Unnamed third party']>
+<['Other', 'Marketing', 'Basic service/feature'], 255, ['Named third party']>
+<['Other', 'Analytics/Research'], 238, ['Unspecified', 'Other part of company/affiliate', 'Other users', 'Named third party', 'Unnamed third party']>
+<['Marketing', 'Basic service/feature', 'Unspecified', 'Other'], 245, ['Named third party', 'Unnamed third party']>
+<['Advertising'], 172, ['Other part of company/affiliate', 'Named third party']>
+<['Analytics/Research', 'Other', 'Basic service/feature', 'Unspecified'], 296, ['Other', 'Named third party']>
+<['Additional service/feature', 'Service Operation and Security', 'Personalization/Customization'], 195, ['Other part of company/affiliate', 'Named third party']>
+<['Legal requirement', 'Service Operation and Security'], 39, ['Named third party']>
+<['Additional service/feature', 'Analytics/Research', 'Other'], 326, ['Named third party']>
+<['Unspecified', 'Additional service/feature'], 121, ['Named third party']>
+<['Unspecified'], 336, ['Unspecified', 'Named third party']>
+<['Additional service/feature', 'Marketing'], 60, ['Unnamed third party', 'Named third party']>
+<['Basic service/feature', 'Advertising', 'Unspecified', 'Other'], 145, ['Unnamed third party']>
+<['Additional service/feature', 'Marketing', 'Advertising', 'Unspecified'], 275, ['Other part of company/affiliate', 'Unspecified', 'Named third party']>
+<['Service Operation and Security', 'Unspecified'], 180, ['Unnamed third party']>
+<['Basic service/feature'], 115, ['Unspecified']>
+<['Advertising', 'Basic service/feature'], 239, ['Other users', 'Unspecified', 'Other part of company/affiliate', 'Named third party']>
+<['Advertising', 'Additional service/feature', 'Other', 'Personalization/Customization', 'Analytics/Research', 'Unspecified'], 283, ['Other part of company/affiliate', 'Named third party']>
+<['Unspecified', 'Basic service/feature'], 200, ['Other users', 'Unspecified']>
+<['Service Operation and Security', 'Additional service/feature', 'Service operation and security', 'Legal requirement', 'Other', 'Basic service/feature', 'Personalization/Customization'], 327, ['Other part of company/affiliate', 'Named third party', 'Unspecified', 'Other users', 'Unnamed third party']>
+<['Additional service/feature', 'Merger/Acquisition', 'Advertising', 'Basic service/feature', 'Analytics/Research', 'Unspecified', 'Legal requirement', 'Other', 'Marketing'], 84, ['Unnamed third party', 'Named third party']>
+<['Advertising', 'Additional service/feature', 'Unspecified', 'Basic service/feature'], 161, ['Unspecified', 'Named third party']>
+<['Unspecified', 'Other', 'Advertising', 'Basic service/feature'], 240, ['Named third party']>
+<['Unspecified', 'Personalization/Customization', 'Additional service/feature', 'Other', 'Analytics/Research', 'Basic service/feature'], 225, ['Named third party']>
+<['Unspecified', 'Legal requirement', 'Service operation and security', 'Basic service/feature', 'Personalization/Customization'], 306, ['Named third party']>
+<['Unspecified', 'Service Operation and Security', 'Legal requirement', 'Service operation and security', 'Other', 'Personalization/Customization', 'Analytics/Research', 'Additional service/feature'], 269, ['Named third party']>
+<['Merger/Acquisition'], 277, ['Other users', 'Unspecified', 'Public', 'Named third party', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Analytics/Research', 'Basic service/feature'], 137, ['Named third party', 'Other part of company/affiliate', 'Other']>
+<['Unspecified', 'Basic service/feature', 'Service operation and security', 'Service Operation and Security'], 311, ['Other part of company/affiliate', 'Unnamed third party']>
+<['Other'], 263, ['Named third party']>
+<['Advertising', 'Analytics/Research', 'Unspecified', 'Basic service/feature', 'Personalization/Customization', 'Additional service/feature'], 101, ['Other users', 'Unspecified', 'Named third party']>
+<['Unspecified', 'Legal requirement', 'Additional service/feature', 'Marketing', 'Personalization/Customization'], 246, ['Named third party']>
+<['Other', 'Advertising'], 337, ['Named third party', 'Unnamed third party', 'Other part of company/affiliate']>
+<['Basic service/feature', 'Analytics/Research'], 330, ['Unnamed third party', 'Named third party']>
+<['Service Operation and Security', 'Basic service/feature', 'Marketing', 'Unspecified', 'Other', 'Legal requirement', 'Merger/Acquisition', 'Personalization/Customization', 'Additional service/feature', 'Analytics/Research', 'Service operation and security'], 78, ['Named third party']>
+<['Unspecified'], 312, ['Named third party']>
+<['Marketing', 'Unspecified'], 319, ['Named third party', 'Unnamed third party']>
+<['Service Operation and Security', 'Personalization/Customization', 'Marketing', 'Advertising', 'Additional service/feature', 'Merger/Acquisition', 'Basic service/feature'], 155, ['Named third party', 'Unnamed third party']>
+<['Analytics/Research', 'Other'], 94, ['Named third party']>
+<['Unspecified', 'Additional service/feature', 'Marketing'], 324, ['Unnamed third party']>
+<['Analytics/Research', 'Unspecified', 'Legal requirement', 'Other', 'Basic service/feature'], 52, ['Unnamed third party', 'Named third party']>
+<['Service Operation and Security', 'Analytics/Research', 'Personalization/Customization'], 358, ['Unnamed third party', 'Other part of company/affiliate']>
+<['Additional service/feature', 'Marketing'], 60, ['Named third party']>
+<['Basic service/feature'], 245, ['Unnamed third party', 'Other part of company/affiliate', 'Unspecified', 'Named third party']>
+<['Unspecified', 'Additional service/feature', 'Marketing'], 214, ['Unspecified', 'Unnamed third party', 'Other part of company/affiliate', 'Named third party']>
+<['Service Operation and Security', 'Additional service/feature', 'Other'], 74, ['Named third party']>
+<['Basic service/feature'], 159, ['Unnamed third party']>
+<['Advertising', 'Other', 'Unspecified'], 359, ['Named third party']>
+<['Marketing', 'Analytics/Research', 'Unspecified'], 185, ['Named third party']>
+<['Analytics/Research', 'Marketing', 'Advertising', 'Unspecified', 'Basic service/feature'], 183, ['Other', 'Unnamed third party']>
+<['Basic service/feature'], 214, ['Unspecified', 'Other part of company/affiliate', 'Public']>
+<['Analytics/Research'], 308, ['Named third party', 'Public']>
+<['Additional service/feature', 'Advertising', 'Analytics/Research', 'Legal requirement', 'Service Operation and Security', 'Service operation and security', 'Merger/Acquisition', 'Personalization/Customization', 'Basic service/feature', 'Marketing', 'Unspecified', 'Other'], 210, ['Other']>
+<['Basic service/feature'], 117, ['Other part of company/affiliate']>
+<['Advertising', 'Marketing', 'Basic service/feature', 'Unspecified', 'Analytics/Research'], 284, ['Other users', 'Named third party']>
+<['Basic service/feature'], 306, ['Unnamed third party']>
+<['Personalization/Customization', 'Service operation and security', 'Legal requirement', 'Analytics/Research', 'Additional service/feature'], 244, ['Other part of company/affiliate']>
+<['Additional service/feature', 'Marketing', 'Unspecified', 'Analytics/Research', 'Other'], 190, ['Public', 'Other part of company/affiliate', 'Unnamed third party']>
+<['Marketing', 'Additional service/feature'], 209, ['Unnamed third party', 'Named third party', 'Unspecified']>
+<['Additional service/feature'], 103, ['Public', 'Other part of company/affiliate', 'Unspecified', 'Unnamed third party']>
+<['Additional service/feature', 'Merger/Acquisition', 'Basic service/feature', 'Service Operation and Security', 'Service operation and security', 'Unspecified', 'Analytics/Research', 'Legal requirement'], 140, ['Unspecified', 'Named third party', 'Public', 'Other part of company/affiliate', 'Unnamed third party']>
+<['Analytics/Research', 'Additional service/feature', 'Unspecified', 'Marketing'], 148, ['Unspecified']>
+<['Advertising', 'Marketing'], 277, ['Named third party', 'Unnamed third party']>
+<['Additional service/feature', 'Unspecified', 'Marketing'], 193, ['Unnamed third party']>
+<['Other', 'Analytics/Research', 'Marketing', 'Unspecified'], 39, ['Unspecified', 'Other part of company/affiliate', 'Named third party', 'Unnamed third party']>
+<['Other', 'Advertising', 'Additional service/feature', 'Basic service/feature', 'Analytics/Research'], 316, ['Named third party', 'Unnamed third party', 'Public']>
+<['Unspecified', 'Additional service/feature'], 256, ['Unspecified']>
+<['Service operation and security'], 271, ['Named third party']>

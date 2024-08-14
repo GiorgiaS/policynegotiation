@@ -1,0 +1,15 @@
+Best Solutions:
+1. 2.50063025 => {'Unspecified', 'Named third party', 'Unnamed third party'}
+2. 2.38618976 => {'Unspecified', 'Named third party', 'Other part of company/affiliate', 'Public'}
+3. 3.14387357 => {'Named third party'}
+4. 2.56898841 => {'Named third party', 'Other part of company/affiliate', 'Other', 'Public', 'Unspecified'}
+5. 2.44040545 => {'Unspecified', 'Named third party', 'Unnamed third party', 'Other'}
+6. 2.39102914 => {'Unspecified', 'Unnamed third party', 'Other'}
+7. 3.39768062 => {'Other users', 'Other'}
+8. 2.51445357 => {'Unspecified', 'Unnamed third party', 'Other part of company/affiliate', 'Public'}
+9. 2.15485714 => {'Named third party', 'Other users', 'Other part of company/affiliate', 'Other', 'Unnamed third party', 'Public', 'Unspecified'}
+10. 2.37836688 => {'Named third party', 'Unnamed third party'}
+11. 2.59570587 => {'Unspecified', 'Named third party'}
+12. 2.46877315 => {'Named third party', 'Unnamed third party', 'Public'}
+
+Final best solution: {'Named third party'} (difference : 0.13090902999999998)

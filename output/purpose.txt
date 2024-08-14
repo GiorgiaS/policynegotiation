@@ -1,0 +1,20 @@
+Best Solutions:
+1. 2.58149146 => {'Legal requirement', 'Unspecified', 'Additional service/feature', 'Analytics/Research'}
+2. 1.96814352 => {'Service operation and security', 'Additional service/feature', 'Service Operation and Security', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Basic service/feature'}
+3. 2.31596608 => {'Personalization/Customization', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Service Operation and Security', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Basic service/feature'}
+4. 2.17041562 => {'Legal requirement', 'Additional service/feature', 'Other', 'Analytics/Research', 'Unspecified', 'Advertising', 'Basic service/feature'}
+5. 2.05647901 => {'Personalization/Customization', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Service Operation and Security', 'Analytics/Research', 'Advertising', 'Basic service/feature'}
+6. 2.12148162 => {'Legal requirement', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Basic service/feature'}
+7. 2.50422544 => {'Marketing', 'Advertising'}
+8. 2.0348697 => {'Personalization/Customization', 'Legal requirement', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Marketing', 'Advertising', 'Basic service/feature'}
+9. 2.20239314 => {'Service Operation and Security', 'Merger/Acquisition', 'Advertising', 'Other'}
+10. 2.08562386 => {'Legal requirement', 'Merger/Acquisition', 'Other', 'Service Operation and Security', 'Advertising', 'Basic service/feature'}
+11. 3.11430675 => {'Service operation and security'}
+12. 2.48397595 => {'Personalization/Customization', 'Legal requirement', 'Service operation and security', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Basic service/feature'}
+13. 2.31446142 => {'Personalization/Customization', 'Legal requirement', 'Merger/Acquisition', 'Additional service/feature', 'Other', 'Service Operation and Security', 'Analytics/Research', 'Unspecified', 'Marketing', 'Advertising', 'Basic service/feature'}
+14. 2.1006629 => {'Unspecified', 'Marketing', 'Analytics/Research', 'Advertising'}
+15. 2.80892455 => {'Service operation and security', 'Additional service/feature', 'Analytics/Research', 'Unspecified', 'Basic service/feature'}
+16. 2.88049604 => {'Legal requirement', 'Unspecified', 'Basic service/feature'}
+17. 2.16458817 => {'Legal requirement', 'Additional service/feature', 'Service Operation and Security', 'Analytics/Research', 'Unspecified', 'Advertising'}
+
+Final best solution: {'Service Operation and Security', 'Merger/Acquisition', 'Advertising', 'Other'} (difference : 0.14855114000000014)

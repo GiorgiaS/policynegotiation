@@ -1,0 +1,22 @@
+Intermediate Policy:<{'Analytics', 'Basic service/feature', 'Research', 'Legal requirement'}, 205.3, {'Affiliate Marketers', 'Social Networks', 'Ad Networks', 'Legal Advisors'}>
+Computation time:3.5626673698425293
+
+List of Policies:
+<['Analytics', 'Basic service/feature', 'Additional service/feature', 'Marketing', 'Other', 'Research', 'Advertising', 'Personalization/Customization', 'Service Operation and Security'], 293, ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']>
+<['Legal requirement', 'Research', 'Analytics'], 310, ['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']>
+<['Basic service/feature', 'Analytics'], 142, ['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']>
+<['Basic service/feature', 'Additional service/feature', 'Research', 'Analytics', 'Advertising', 'Legal requirement'], 185, ['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']>
+<['Basic service/feature', 'Analytics', 'Research'], 54, ['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']>
+
+
+List of Privacy Preferences:
+<['Analytics'], 342, ['Legal Advisors', 'Affiliate Marketers', 'Analytics', 'Compliance Service']>
+<['Legal requirement', 'Research', 'Analytics'], 362, ['Legal Advisors', 'Social Networks']>
+<['Research', 'Analytics', 'Basic service/feature'], 43, ['Social Networks', 'Legal Advisors', 'Ad Networks', 'Affiliate Marketers', 'Compliance Services']>
+<['Analytics', 'Basic service/feature'], 309, ['Business Partners', 'Affiliate Marketers', 'Ad Networks', 'IT Support']>
+<['Legal requirement', 'Research'], 272, ['Analytics Providers']>
+<['Legal requirement', 'Analytics'], 294, ['Legal Advisors']>
+<['Basic service/feature'], 108, ['Social Networks']>
+<['Legal requirement', 'Research'], 30, ['Analytics']>
+<['Basic service/feature'], 31, ['Cloud Storage Providers', 'Compliance Services']>
+<['Research'], 347, ['Compliance Service', 'Analytics', 'Legal Advisors']>
