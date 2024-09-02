@@ -165,5 +165,6 @@ cython_debug/
 ForPaperExample/
 output/
 TimeResult_Paper/
-./Dataset_AllCompletePolicies_New.txt
+Dataset_AllCompletePolicies_New.txt
+help.txt
 
