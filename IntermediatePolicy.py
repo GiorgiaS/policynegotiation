@@ -15,7 +15,7 @@ class IntermediatePolicy():
         # Variables
         nPols = 25
         nPPs = 500
-        minRet = 30
+        minRet = 10
         maxRet = 365
         predSets = PredefSets()
         algo = Algorithms()
@@ -41,7 +41,7 @@ class IntermediatePolicy():
         ppTPList = predSets.getTPListsPP(nPPs)
         ppRetList = [] 
         for i in range(nPPs):
-            ppRetList.append(random.randint(minRet, maxRet))
+            ppRetList.append(random.randint(minRet, max(polRetList)))
         
         #####
         # PURPOSE

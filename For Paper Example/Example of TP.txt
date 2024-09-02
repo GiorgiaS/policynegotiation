@@ -1,8 +1,0 @@
-['Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics']
-['Analytics', 'Affiliate Marketers', 'Legal Advisors', 'Compliance Service']
-['Business Partners', 'Affiliate Marketers', 'IT Support', 'Social Networks', 'Ad Networks']
-['Email Marketing Platforms', 'Business Partners', 'Data Hosting Services']
-['Compliance Services', 'Cloud Storage Providers', 'Email Marketing Platforms', 'Customer Support Tools', 'Analytics Providers']
-['Ad Networks', 'Legal Advisors', 'Cloud Storage Providers', 'Market Research Firms']
-['Compliance Services', 'Cloud Storage Providers', 'IT Support', 'Analytics Providers']
-['Compliance Services', 'Affiliate Marketers', 'Legal Advisors', 'Social Networks', 'Ad Networks']
