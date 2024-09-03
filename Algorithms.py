@@ -61,6 +61,8 @@ class Algorithms():
 
         bestSolutionDict = {}
         # print("Algorithms.computeNSGAIII_Energy - bestValue initial value:", bestValue)
+        # resultF = open('./output/algoritm.txt', "a")
+        # resultF.write('\n\nProblem: ' + str(problem))
         for bs in best_solution:
             keyBS = round(bs[0] + bs[1] + bs[2] + bs[3], 8)
             # print("Algorithms.computeNSGAIII_Energy - current bs:", bs)
@@ -70,16 +72,19 @@ class Algorithms():
         #     print("Algorithms.computeNSGAIII_Energy - bestValue current value:", bestValue)
         # print("Algorithms.computeNSGAIII_Energy - bestValue final value:", bestValue)
 
-        # sum f+g and h+j and take the best solution with the smallest difference between f+g and h+j
-        difference = 2
+        # The best solution is that with currentDifference = 0
+        # So, we start with difference = 1
+        difference = 1
         keyBS = 0
         for bs in best_solution:
-            sumU = round(bs[0] + bs[1], 8)
-            sumS = round(bs[2] + bs[3], 8)
-            diff = abs(sumU-sumS)
-            if diff < difference:
-                difference = diff
+            difU = round(bs[0] - bs[1], 8)
+            difS = round(bs[2] - bs[3], 8)
+            currentDifference = abs(difU - difS)
+            if currentDifference < difference:
+                difference = currentDifference
                 keyBS = round(bs[0] + bs[1] + bs[2] + bs[3], 8)
+                
+            # resultF.write('\nbest solution: ' + str(bestSolutionDict[keyBS]) + ': ' + str(bs) + ' currentDifference: ' + str(currentDifference) + ' current difference: ' + str(difference))
             
 
         # matplotlib.use('Agg')
