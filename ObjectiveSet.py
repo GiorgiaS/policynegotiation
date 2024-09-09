@@ -48,7 +48,7 @@ class ObjectiveSet(ElementwiseProblem):
         w1 = 0.7
         w2 = 0.3
 
-           
+        # print ("ObjectivePurpose._evaluate - PPS:", self.pps)
         # Common variables
         newSetKey = int(round(vars[0]))  # Use the key instead of directly accessing the set
         newSet = self.prpDict[newSetKey]
@@ -96,13 +96,13 @@ class ObjectiveSet(ElementwiseProblem):
 
         # User Objective functions
         if UF and UE:
-            f1 = 1 - 1/len(UF) * self.summation(newSet, UF) * w1 - len(UE)/len(self.pps) * w2 # maximise (it is "-" because of tpymoo: see README.txt)
+            f1 = 1 - (1/len(UF) * self.summation(newSet, UF) * w1 + len(UE)/len(self.pps) * w2) # maximise (it is "-" because of pymoo: each objective function is supposed to be minimized)
         elif UF and not UE:
-            f1 = 1 - 1/len(UF) * self.summation(newSet, UF)
+            f1 = 1 - (1/len(UF) * self.summation(newSet, UF))
         elif not UF and UE:
             f1 = 1 - len(UE)/len(self.pps)
         else: 
-            f1 = 1 # if no pp is favoured, then this value is 1 to denote the maximum distance
+            f1 = 0 # if no pp is favoured, then this value is 1 to denote the maximum distance
             
         if UU:
             f2 = 1/len(UU) * self.summation(newSet, UU) # minimise
@@ -114,13 +114,13 @@ class ObjectiveSet(ElementwiseProblem):
         
         # Space Objective functions
         if SF and SE:
-            f3 = 1 - 1/len(SF) * self.summation(newSet, SF) * w1 - len(SE)/len(self.pols) * w2 # maximise (it is "-" because of tpymoo: see README.txt)
+            f3 = 1 - (1/len(SF) * self.summation(newSet, SF) * w1 + len(SE)/len(self.pols) * w2) # maximise (it is "-" because of tpymoo: see README.txt)
         elif SF and not SE:
-            f3 = 1 - 1/len(SF) * self.summation(newSet, SF)
+            f3 = 1 - (1/len(SF) * self.summation(newSet, SF))
         elif not SF and SE:
             f3 = 1 - len(SE)/len(self.pols)
         else: 
-            f3 = 1 # if no pp is favoured, then this valSE is 1 to denote the maximum distance
+            f3 = 0 # if no pp is favoured, then this valSE is 1 to denote the maximum distance
             
         if SU:
             f4 = 1/len(SU) * self.summation(newSet, SU) # minimise

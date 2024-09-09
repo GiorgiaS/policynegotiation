@@ -1,0 +1,14 @@
+[['Unspecified', 'Other', 'Basic service/feature', 'Analytics/Research', 'Service Operation and Security', 'Service operation and security', 'Merger/Acquisition', 'Additional service/feature', 'Marketing'], ['Unspecified', 'Additional service/feature', 'Personalization/Customization', 'Service Operation and Security', 'Analytics/Research', 'Advertising', 'Basic service/feature', 'Marketing']]
+[['Ad Network', 'Legal Advisor', 'Cloud Storage Provider', 'Market Research Firm', 'Customer Support Tool'], ['Cloud Storage Provider', 'Legal Advisor', 'Email Marketing Platform', 'Analytics Provider']]
+[180, 100]
+[['Service operation and security', 'Basic service/feature', 'Marketing', 'Service Operation and Security', 'Merger/Acquisition', 'Analytics/Research'], ['Personalization/Customization', 'Unspecified', 'Basic service/feature'], ['Advertising', 'Marketing', 'Service Operation and Security'], ['Basic service/feature', 'Unspecified', 'Advertising', 'Additional service/feature']]
+[['Legal Advisor'], ['Ad Network', 'Legal Advisor', 'Cloud Storage Provider'], ['Cloud Storage Provider', 'Email Marketing Platform'], ['Legal Advisor', 'Cloud Storage Provider', 'Analytics Provider']]
+[30, 100, 150, 90]
+
+Compiled modules for significant speedup can not be used!
+https://pymoo.org/installation.html#installation
+
+To disable this warning:
+from pymoo.config import Config
+Config.warnings['not_compiled'] = False
+
