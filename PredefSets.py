@@ -105,10 +105,7 @@ class PredefSets:
             # print('PredefSets::getPrpListsPP - PP Purposes:', randomTP)
         # print('PredefSets::getPrpListsPP - PP Third Party List:', tpList)
         return tpList
-       
-    # def getPrpString(self):
-    #     return self.allPrp
-    
+
     def getPowersetPrp(self):
         # 1. get the list of all elements from the extracted purposes
         prpsList = []

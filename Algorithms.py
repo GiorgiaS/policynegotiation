@@ -1,19 +1,8 @@
 from concurrent.futures import ThreadPoolExecutor
-import os
-import matplotlib
 # Algorithms imports
 from pymoo.algorithms.moo.nsga3 import NSGA3
 from pymoo.optimize import minimize
 from pymoo.util.ref_dirs import get_reference_directions
-
-# Show results
-from pymoo.visualization.scatter import Scatter
-from pymoo.visualization.pcp import PCP
-from pymoo.visualization.heatmap import Heatmap
-from pymoo.visualization.petal import Petal
-from pymoo.visualization.radar import Radar
-from pymoo.visualization.radviz import Radviz
-from pymoo.visualization.star_coordinate import StarCoordinate
 
 
 class Algorithms():
@@ -79,22 +68,12 @@ class Algorithms():
         for bs in best_solution:
             difU = round(bs[0] - bs[1], 8)
             difS = round(bs[2] - bs[3], 8)
-            currentDifference = abs(difU - difS)
+            currentDifference = difU - difS
             if currentDifference < difference:
                 difference = currentDifference
                 keyBS = round(bs[0] + bs[1] + bs[2] + bs[3], 8)
                 
             # resultF.write('\nbest solution: ' + str(bestSolutionDict[keyBS]) + ': ' + str(bs) + ' currentDifference: ' + str(currentDifference) + ' current difference: ' + str(difference))
-            
-
-        # matplotlib.use('Agg')
-        # Scatter().add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-Scatter.png')
-        # # PCP().add(res.F).show()
-        # Heatmap().add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-Heatmap.png')
-        # Petal(bounds=[0, 1]).add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-Petal.png')
-        # Radar(bounds=[0, 1], normalize_each_objective=False).add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-Radar.png')
-        # Radviz().add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-Radviz.png')
-        # StarCoordinate().add(res.F).save(fname='./output/NSGA-III/energy/'+filename+'NSGA3-StarCoordinate.png')
 
         # energyF.write("\n\nBest (= smallest) value: " + str(bestValue) + " => " + str(bestSolutionDict[bestValue]))
 

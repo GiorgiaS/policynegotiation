@@ -1,7 +1,7 @@
 import random
 import time
 import concurrent.futures
-import threading
+
 
 from PredefSets import PredefSets
 from MeanNumber import MeanNumber
@@ -13,10 +13,10 @@ class IntermediatePolicy():
 
     def main():
         # Variables
-        nPols = 25
-        nPPs = 500
-        minRet = 10
-        maxRet = 365
+        nPols = 25 # Number of policies
+        nPPs = 500 # Number of privacy preferences
+        minRet = 10 # Min retention period
+        maxRet = 365 # Max retention period
         predSets = PredefSets()
         algo = Algorithms()
         printer = Printer()
