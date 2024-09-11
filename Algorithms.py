@@ -68,8 +68,8 @@ class Algorithms():
         for bs in best_solution:
             difU = round(bs[0] - bs[1], 8)
             difS = round(bs[2] - bs[3], 8)
-            currentDifference = difU - difS
-            if currentDifference < difference:
+            currentDifference = abs(difU - difS)
+            if (abs(1 - currentDifference)) > (abs(1 - difference)):
                 difference = currentDifference
                 keyBS = round(bs[0] + bs[1] + bs[2] + bs[3], 8)
                 
